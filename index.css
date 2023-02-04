@@ -1,0 +1,61 @@
+body {
+    background: #1F2937;
+    text-align: left;
+    margin: 70px 100px;
+    font-size: 30px;
+}
+
+#proj-title {
+    color: white;
+    margin-bottom: 0;
+    font-size: 80px;
+}
+
+#title-comp {
+    color: #10B981;
+    margin: 0;
+    font-size: 70px;
+
+}
+
+p {
+    color: hsl(255, 5%, 84%);
+    margin: 0;
+    font-size: 40px;
+}
+
+#pass {
+    padding: 6px 16px;
+    font-size: larger;
+    border: none;
+    border-radius: 5px;
+    background: #10B981;
+    color: #D5D4D8;
+    margin: 50px auto;
+    text-shadow: 1px 0 black;
+    
+}
+
+.divider {
+    border: 1px solid grey;
+
+}
+
+.pwd-btn {
+    height: 40px;
+    background: #273549;
+    padding: 8px 16px;
+    border: none;
+    width: 30%;
+    border-radius: 10px;
+    margin: 0 10px;
+    color: #10B981;
+}
+
+#random-pwd {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    padding: 50px;
+    
+}
